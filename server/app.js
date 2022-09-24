@@ -11,9 +11,6 @@ const mongoose = require('mongoose');
 // Cors
 const cors = require('cors');
 
-// Body Parser
-const parser = require('body-parser');
-
 // Routes
 const routes = require('./routes/routes');
 
