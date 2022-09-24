@@ -25,9 +25,20 @@ yang ada berdasarkan kategori kelasnya
 
 ## Installation
 
+Install Seluruh modul secara langsung dari package.json
+```bash
+  cd server
+  npm install
+  
+  cd client
+  npm install
+```
+
 Server
 
 ```bash
+  cd server
+  
   npm install cors 
   npm install dotenv 
   npm install express 
@@ -38,6 +49,7 @@ Server
 Client
 ```bash
   vue create Client
+  cd client
   vue add vuetify
   npm install --save axios vue-axios
 ```
