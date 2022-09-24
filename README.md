@@ -1,11 +1,11 @@
 
-# Animals App 
+# 🌟 Animals App 
 
 Animals App adalah sebuah aplikasi untuk memberikan informasi singkat mengenai beberapa hewan
 yang ada berdasarkan kategori kelasnya
 
 
-## Features
+## 💡 Features
 
 - Create Data Hewan
 - Read Data Hewan
@@ -23,7 +23,7 @@ yang ada berdasarkan kategori kelasnya
 
 
 
-## Installation
+## ⚙️ Installation
 
 Install Seluruh modul secara langsung dari package.json
 ```bash
@@ -64,7 +64,7 @@ Run Client
   npm run serve
 ```
     
-## FAQ
+## ❓ FAQ
 
 #### Apa Saja Skema Model Untuk Konten Tersebut?
 
@@ -79,7 +79,7 @@ Run Client
 - VueJS
 
 
-## Authors
+## 🧍 Authors
 
 - [Fahmi Ahmad Fadilah - 211511013](https://www.github.com/FahmiX)
 - [Hilman Permana - 211511015](https://github.com/HilmanPermana)
