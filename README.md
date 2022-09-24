@@ -81,6 +81,6 @@ Run Client
 
 ## Authors
 
-- [Fahmi Ahmad Fadilah - 211511013](https://www.github.com/octokatherine)
+- [Fahmi Ahmad Fadilah - 211511013](https://www.github.com/FahmiX)
 - [Hilman Permana - 211511015](https://github.com/HilmanPermana)
 
