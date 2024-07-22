@@ -81,6 +81,6 @@ Run Client
 
 ## 🧍 Authors
 
-- [Fahmi Ahmad Fadilah - 211511013](https://www.github.com/FahmiX)
-- [Hilman Permana - 211511015](https://github.com/HilmanPermana)
+- [Fahmi Ahmad Fadilah] (https://www.github.com/FahmiX)
+- [Hilman Permana] (https://github.com/HilmanPermana)
 
